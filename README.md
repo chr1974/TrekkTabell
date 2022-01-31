@@ -1,6 +1,9 @@
 [![.NET](https://github.com/chr1974/TrekkTabell/actions/workflows/dotnet.yml/badge.svg)](https://github.com/chr1974/TrekkTabell/actions/workflows/dotnet.yml)
 # TrekkTabell
 SkatteEtatens SkatteTrekksRutiner Konvertert fra Java til C#
+Orginal Java Kode: [TrekkTabell på Skatte Etatens Github](https://github.com/Skatteetaten/trekktabell) 
+
+---
 
 Et lite prosjekt jeg prøvde meg på mens jeg lærer meg å kode i fritiden.
 jeg har gjort mitt beste utifra de kunnskapene jeg har. Mye kan sikkert gjøres bedre.
