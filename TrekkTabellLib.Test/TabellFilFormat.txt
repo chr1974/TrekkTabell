@@ -1,0 +1,23 @@
+﻿Trekktabellene har fem kolonner. De inneholder:
+
+											 linje Array index og lengde
+Kolonne 1 (A)	Tabellnummer	4 posisjoner Index: 0,  length: 4 
+
+Kolonne 2 (B)	Trekkperiode:   1 posisjon   Index: 4,  length: 1
+				1: måned
+				2: 14 dager
+				3: uke
+				4: 4 dager
+				5: 3 dager
+				6: 2 dager
+				7: 1 dag
+
+
+Kolonne 3 (C)	Tabelltype		1 posisjon	 Index: 5,  length: 1
+				0: Lønn
+				1: Pensjon
+
+
+Kolonne 4 (D)	Trekkgrunnlag	5 posisjoner Index: 6,  length: 5
+
+Kolonne 5 (E)	Trekk			5 posisjoner Index: 11, length: 5
