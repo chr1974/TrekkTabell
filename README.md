@@ -1,3 +1,4 @@
+[![.NET](https://github.com/chr1974/TrekkTabell/actions/workflows/dotnet.yml/badge.svg)](https://github.com/chr1974/TrekkTabell/actions/workflows/dotnet.yml)
 # TrekkTabell
 SkatteEtatens SkatteTrekksRutiner Konvertert fra Java til C#
 
